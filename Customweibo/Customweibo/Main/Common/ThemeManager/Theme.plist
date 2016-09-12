@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blue moon</key>
+	<string>Skins/bluemoon</string>
+	<key>魁拔</key>
+	<string>Skins/kuiba</string>
+	<key>猫爷</key>
+	<string>Skins/cat</string>
+</dict>
+</plist>
